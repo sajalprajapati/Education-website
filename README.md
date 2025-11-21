@@ -1,10 +1,10 @@
-�� Course Landing Page – React + Vite
+Course Landing Page – React + Vite
  
 A modern, responsive **Course Landing Page** built with **React + Vite**, featuring multilingual support, gated video lessons, lead capture form, full SEO optimization, and a clean modular structure.
  
 ---
  
-�� Features
+Features
  
 ✨ Modern UI
 - Fully responsive layout  
@@ -16,20 +16,20 @@ A modern, responsive **Course Landing Page** built with **React + Vite**, featur
 - FAQ accordion (smooth open/close)  
 - Materials download area  
  
-�� Gated Video System
+Gated Video System
 - YouTube IFrame API  
 - Video auto-pauses after 2 minutes  
 - Modal pops up requesting user info  
 - Video resumes only for video-triggered modal (not enroll modal)
  
-�� Enrollment Form
+Enrollment Form
 - Integrated with **Web3Forms API**  
 - Validation for required fields  
 - Thank-you toast on submit  
 - Exit warning popup:  
   “This course ends with a sale. Hurry up! If you leave, you might miss your chance.”
  
-�� Multi-language Support
+Multi-language Support
 Supported languages:
 - English (en)  
 - Spanish (es)  
@@ -39,7 +39,7 @@ Translations are stored in:
  
 src/constants/translations.js
  
-�� SEO & Analytics
+SEO & Analytics
 - Complete SEO meta tags  
 - OpenGraph + Twitter tags  
 - Favicon support  
@@ -47,7 +47,7 @@ src/constants/translations.js
  
 ---
  
-��️ Installation
+Installation
  
 git clone https://github.com/sajalprajapati/Education-website.git
 cd Education-website
@@ -56,48 +56,49 @@ npm run dev
  
 ---
  
-�� Build for Production
+Build for Production
  
 npm run build
  
 ---
  
-�� Web3Forms Integration
+Web3Forms Integration
  
 API Key: 7b5ffb97-5aa7-4f3b-bbf5-57583315872a
  
 ---
  
-�� YouTube Player Logic
+YouTube Player Logic
  
 Located in: src/hooks/useYouTubePlayer.js
  
 ---
  
-�� Adding More Languages
+Adding More Languages
  
 Update: src/constants/translations.js
  
 ---
  
-�� Assets
+Assets
  
 public/images/  
 public/pdfs/
  
 ---
  
-�� Security Notes
+Security Notes
 - Do NOT expose private API keys  
 - Web3Forms key is safe  
 - GA tracking ID is public  
  
 ---
  
-�� License
+License
  
 MIT License
  
 ---
  
+
 
