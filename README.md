@@ -47,11 +47,6 @@ src/constants/translations.js
  
 ---
  
-�� Project Structure
-(Structure content omitted here but included in actual README)
- 
----
- 
 ��️ Installation
  
 git clone https://github.com/sajalprajapati/Education-website.git
@@ -105,3 +100,4 @@ MIT License
  
 ---
  
+
